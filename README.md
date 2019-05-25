@@ -1,2 +1,4 @@
 # Christin_Meiliana_Bootcamp10
-Jawaban Bootcamp 10 Arkademy
+Kak untuk soal 6 . index.php
+mohon maaf jawaban kurang dari sempurna kak 
+terimakasih
