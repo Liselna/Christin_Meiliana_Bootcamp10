@@ -1,0 +1,20 @@
+{
+    "name":"Christin Meiliana",
+    "address":"jl kemayoran 3 , Malang",
+    "hobbies":"watch movie",
+    "is_married":false,
+    "school":{
+        "Highschool":"SMKN 9 Malang",
+        "University":"STT Malang"
+    },
+    "skills":[
+        {
+        "name":"php",
+        "score":80
+        },
+        {
+        "name":"dbms mysql",
+        "score":80
+        }
+    ]
+}
